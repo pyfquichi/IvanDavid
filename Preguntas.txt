@@ -1,0 +1,3 @@
+Capital de Colombia,Bogota
+Capital de Canada,Ottawa
+Capital de Italia,Roma
